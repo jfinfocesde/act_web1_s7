@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 15817
+/Length 15834
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 5/10/2025, 12:18:54) Tj
+(Fecha de evaluación: 5/10/2025, 12:45:01) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación Masiva) Tj
+(Evaluado por: Sistema de Evaluación de No Calificados) Tj
 ET
 BT
 /F2 12 Tf
@@ -870,8 +870,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 156.9179527559053895 Td
-(Excelente solución. El código es limpio, claro y resuelve el problema eficientemente utilizando `reduce` y) Tj
-T* (`console.table` para mostrar la información de forma organizada.) Tj
+(Excelente solución. El código es claro, conciso y resuelve el problema planteado de manera eficiente. Se aplican) Tj
+T* (buenas prácticas como el uso de `reduce` para calcular el total.) Tj
 ET
 BT
 /F1 8 Tf
@@ -899,7 +899,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5574
+/Length 5612
 >>
 stream
 0.5670000000000001 w
@@ -946,8 +946,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(La solución es correcta y eficiente, implementando los filtros solicitados de manera clara y legible. El uso de) Tj
-T* (`console.table` facilita la visualización de los resultados.) Tj
+(La solución es correcta y concisa. El código es legible y cumple con todos los requisitos del ejercicio, utilizando) Tj
+T* (`filter` de manera efectiva. ¡Excelente trabajo!) Tj
 ET
 BT
 /F2 10 Tf
@@ -992,8 +992,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 535.3309448818897636 Td
-(La solución es correcta y funcional. Se podría mejorar la legibilidad y evitar la repetición de cálculos del promedio,) Tj
-T* (creando una función auxiliar para este propósito.) Tj
+(La solución es correcta y funcional. Se puede mejorar la legibilidad del código extrayendo la lógica del cálculo del) Tj
+T* (promedio en una función separada para evitar repetición.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1037,8 +1037,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 398.311259842519803 Td
-(La solución es correcta y funcional. Se puede mejorar la legibilidad del cálculo del producto más vendido y usar) Tj
-T* (`const` en lugar de `let` si no se muta la variable.) Tj
+(La solución es correcta y funcional. Podría mejorarse la legibilidad y eficiencia calculando el total de ingresos en el) Tj
+T* (mismo reduce que calcula el promedio, evitando una iteración adicional.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1083,8 +1083,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 249.7915748031497287 Td
-(Excelente solución. El código es limpio, funcional y resuelve el problema planteado utilizando correctamente los) Tj
-T* (métodos `find`, `findIndex`, `some` y `every`.) Tj
+(Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Buena aplicación) Tj
+T* (de los métodos find, findIndex, some y every.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1128,8 +1128,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 112.7718897637798818 Td
-(Excelente solución. El código es claro, funcional y demuestra correctamente la manipulación de arrays con los) Tj
-T* (métodos solicitados. Buen uso de comentarios para explicar cada operación.) Tj
+(Excelente solución. El código es claro, conciso y demuestra correctamente el uso de todos los métodos de) Tj
+T* (manipulación de arrays solicitados. La salida a consola facilita la comprensión del proceso.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1157,7 +1157,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5091
+/Length 5048
 >>
 stream
 0.5670000000000001 w
@@ -1204,8 +1204,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 683.8506299212598378 Td
-(Excelente solución. El código es claro, conciso y funcional. Bien hecho al usar `localeCompare` para ordenar) Tj
-T* (strings ignorando mayúsculas y el spread operator para evitar modificar los arreglos originales.) Tj
+(Excelente solución. El código es limpio, funcional y aborda correctamente todos los requerimientos de la actividad,) Tj
+T* (demostrando un buen manejo de arrays y funciones de ordenamiento. Bien hecho.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1249,8 +1249,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 546.8309448818897636 Td
-(La solución extrae el primero y el último elemento del array usando indexación en lugar de desestructuración. Si) Tj
-T* (bien el intercambio de variables es correcto, la actividad solicitaba usar desestructuración en todas las partes.) Tj
+(La solución extrae el primero y el último elemento usando indexación en lugar de desestructuración, lo que resta) Tj
+T* (puntos. La desestructuración del resto y el intercambio de variables son correctos.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1294,9 +1294,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 409.8112598425196893 Td
-(Excelente solución. Demuestra un entendimiento completo de la desestructuración de objetos, incluyendo casos) Tj
-T* (básicos, renombrado, valores por defecto, anidamiento y el rest operator. El código es claro, conciso y bien) Tj
-T* (estructurado.) Tj
+(Excelente solución. Demuestra un entendimiento claro de la desestructuración de objetos en JavaScript,) Tj
+T* (incluyendo casos básicos, renombrado, valores por defecto, anidamiento y el operador rest. El código es limpio y) Tj
+T* (fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1340,8 +1340,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 261.2915748031497287 Td
-(Excelente solución. El código es claro, conciso y demuestra el uso correcto de los métodos Object.keys\(\),) Tj
-T* (Object.values\(\), Object.entries\(\) y la iteración con forEach\(\).) Tj
+(Excelente solución. El código cumple con todos los requisitos de la actividad de forma clara y concisa,) Tj
+T* (demostrando el uso correcto de los métodos del objeto y la iteración.) Tj
 ET
 BT
 /F2 12 Tf
@@ -1558,7 +1558,7 @@ endobj
 23 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20251005121854-05'00')
+/CreationDate (D:20251005124501-05'00')
 >>
 endobj
 24 0 obj
@@ -1572,37 +1572,37 @@ endobj
 xref
 0 25
 0000000000 65535 f 
-0000027065 00000 n 
-0000028898 00000 n 
+0000027077 00000 n 
+0000028910 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000016022 00000 n 
-0000016159 00000 n 
-0000021785 00000 n 
-0000021922 00000 n 
-0000027134 00000 n 
-0000027259 00000 n 
-0000027390 00000 n 
-0000027524 00000 n 
-0000027662 00000 n 
-0000027786 00000 n 
-0000027915 00000 n 
-0000028047 00000 n 
-0000028183 00000 n 
-0000028311 00000 n 
-0000028438 00000 n 
-0000028567 00000 n 
-0000028700 00000 n 
-0000028802 00000 n 
-0000029150 00000 n 
-0000029236 00000 n 
+0000016039 00000 n 
+0000016176 00000 n 
+0000021840 00000 n 
+0000021977 00000 n 
+0000027146 00000 n 
+0000027271 00000 n 
+0000027402 00000 n 
+0000027536 00000 n 
+0000027674 00000 n 
+0000027798 00000 n 
+0000027927 00000 n 
+0000028059 00000 n 
+0000028195 00000 n 
+0000028323 00000 n 
+0000028450 00000 n 
+0000028579 00000 n 
+0000028712 00000 n 
+0000028814 00000 n 
+0000029162 00000 n 
+0000029248 00000 n 
 trailer
 <<
 /Size 25
 /Root 24 0 R
 /Info 23 0 R
-/ID [ <5B7CE121B47841D0A67449C0E031ADB8> <5B7CE121B47841D0A67449C0E031ADB8> ]
+/ID [ <F9843E44286156CC60264D2998DC8EC1> <F9843E44286156CC60264D2998DC8EC1> ]
 >>
 startxref
-29340
+29352
 %%EOF
