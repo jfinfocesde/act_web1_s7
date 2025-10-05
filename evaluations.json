@@ -1193,9 +1193,9 @@
     "evaluatedAt": "2025-10-05T17:51:53.977Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "AnamZapa/act_web1_s7": {
-    "repositoryUrl": "AnamZapa/act_web1_s7",
-    "studentName": "Estudiante desconocido",
+  "manjarrezcristian/act_web1_s7": {
+    "repositoryUrl": "manjarrezcristian/act_web1_s7",
+    "studentName": "cristian luis tovar manjarrez",
     "activities": [
       {
         "activityDescription": "Gestión de Inventario Básico - Crea un array de objetos que represente un inventario de productos. Cada producto debe tener: id, nombre, precio, categoria, stock. Declara al menos 5 productos y muestra todos los productos, total de productos en inventario y valor total del inventario.",
@@ -1277,7 +1277,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T17:52:42.285Z",
+    "evaluatedAt": "2025-10-05T17:53:30.294Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
