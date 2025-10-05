@@ -764,9 +764,9 @@
     "evaluatedAt": "2025-10-05T17:03:33.714Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "manjarrezcristian/act_web1_s7": {
-    "repositoryUrl": "manjarrezcristian/act_web1_s7",
-    "studentName": "cristian luis tovar manjarrez",
+  "Strikys12/act_web1_s7": {
+    "repositoryUrl": "Strikys12/act_web1_s7",
+    "studentName": "David Quiroz Gonzalez",
     "activities": [
       {
         "activityDescription": "Gestión de Inventario Básico - Crea un array de objetos que represente un inventario de productos. Cada producto debe tener: id, nombre, precio, categoria, stock. Declara al menos 5 productos y muestra todos los productos, total de productos en inventario y valor total del inventario.",
@@ -848,7 +848,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T17:07:14.263Z",
+    "evaluatedAt": "2025-10-05T17:08:03.473Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
