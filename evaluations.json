@@ -1193,9 +1193,9 @@
     "evaluatedAt": "2025-10-05T17:51:53.977Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "CarolinaBolivar5/act_web1_s7": {
-    "repositoryUrl": "CarolinaBolivar5/act_web1_s7",
-    "studentName": "Carolina Bolivar Rios",
+  "sepumarcela/act_web1_s7": {
+    "repositoryUrl": "sepumarcela/act_web1_s7",
+    "studentName": "Yuly Marcela  Sepulveda Sepulveda",
     "activities": [
       {
         "activityDescription": "Gestión de Inventario Básico - Crea un array de objetos que represente un inventario de productos. Cada producto debe tener: id, nombre, precio, categoria, stock. Declara al menos 5 productos y muestra todos los productos, total de productos en inventario y valor total del inventario.",
@@ -1277,7 +1277,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T17:55:54.976Z",
+    "evaluatedAt": "2025-10-05T17:56:43.848Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
